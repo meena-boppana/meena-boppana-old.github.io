@@ -6,4 +6,4 @@ An avid problem solver, Meena earned national recognition for her qualification 
 
 Meena has experience working with students across grades 6-12.  Her approach is patient yet rigorous with a focus on conceptual understanding over drilling and formulas. She also designs customized enrichment courses for those looking to get ahead.
 
-<img alt="headshot" width="200"> ![Headshot](https://github.com/user-attachments/assets/cca34bde-6212-4cf6-ba6b-28f03572c909) </img>
+<img alt="headshot" width="200" ![Headshot](https://github.com/user-attachments/assets/cca34bde-6212-4cf6-ba6b-28f03572c909) />
